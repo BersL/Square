@@ -95,8 +95,8 @@
             </constraints>
             <variation key="default">
                 <mask key="constraints">
-                    <exclude reference="ztf-RJ-p8F"/>
                     <exclude reference="nNz-uA-0lm"/>
+                    <exclude reference="ztf-RJ-p8F"/>
                 </mask>
             </variation>
             <point key="canvasLocation" x="640" y="440"/>
